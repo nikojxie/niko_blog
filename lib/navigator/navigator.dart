@@ -15,7 +15,7 @@ class _BaseState extends State<Base> {
   );
 
   final Color _defaultColor = Color(0xFF999999);
-  final Color _activeColor = Color(0xFFE60012);
+  final Color _activeColor = Color(0xFFC7A583);
 
   //code : 16进制icon , title: 标题 , index: 顺序
   BottomNavigationBarItem createNavigationItem (int code, String title, int index) {
