@@ -1,0 +1,1 @@
+const baseURL = 'https://blog.xiejunyi.com';
